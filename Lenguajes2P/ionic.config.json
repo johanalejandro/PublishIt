@@ -1,0 +1,7 @@
+{
+  "name": "Lenguajes2P",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
